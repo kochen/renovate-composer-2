@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "thecodingmachine/safe": "^1.3.2"
+        "doctrine/migrations": "3.0.0"
     }
 }
