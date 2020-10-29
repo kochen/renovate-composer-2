@@ -1,7 +1,10 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    ":semanticCommitTypeAll(chore)"
   ],
-  "rangeStrategy": "bump",
-  "enabledManagers": ["composer"]
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "rangeStrategy": "pin"
 }
