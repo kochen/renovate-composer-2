@@ -1,0 +1,13 @@
+{
+    "name": "kochen/renovate-composer-2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mati Kochen",
+            "email": "mati@ro-k.solutions"
+        }
+    ],
+    "require": {
+        "thecodingmachine/safe": "1.3.2"
+    }
+}
