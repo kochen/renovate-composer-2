@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "vimeo/psalm": "^4.0.1",
-        "ocramius/proxy-manager": "^2.9.1"
+        "vimeo/psalm": "4.0.1",
+        "ocramius/proxy-manager": "2.9.0"
     }
 }

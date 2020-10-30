@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3331b17e6a7f720c410c237e0ce9ae00",
+    "content-hash": "73fd02a978ea2f7a004ebbeddc68aefd",
     "packages": [
         {
             "name": "amphp/amp",
@@ -831,16 +831,16 @@
         },
         {
             "name": "ocramius/proxy-manager",
-            "version": "2.9.1",
+            "version": "2.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ocramius/ProxyManager.git",
-                "reference": "7452942d38ae36223b0f8408619181f69799eb5c"
+                "reference": "9475248b6521f3029b973c4cd9aad31022bfd793"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ocramius/ProxyManager/zipball/7452942d38ae36223b0f8408619181f69799eb5c",
-                "reference": "7452942d38ae36223b0f8408619181f69799eb5c",
+                "url": "https://api.github.com/repos/Ocramius/ProxyManager/zipball/9475248b6521f3029b973c4cd9aad31022bfd793",
+                "reference": "9475248b6521f3029b973c4cd9aad31022bfd793",
                 "shasum": ""
             },
             "require": {
@@ -905,7 +905,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Ocramius/ProxyManager/issues",
-                "source": "https://github.com/Ocramius/ProxyManager/tree/2.9.1"
+                "source": "https://github.com/Ocramius/ProxyManager/tree/master"
             },
             "funding": [
                 {
@@ -917,7 +917,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-08-26T16:19:12+00:00"
+            "time": "2020-07-13T20:10:37+00:00"
         },
         {
             "name": "openlss/lib-array2xml",
