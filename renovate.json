@@ -8,6 +8,11 @@
   },
   "rangeStrategy": "pin",
   "composerIgnorePlatformReqs": false,
+  
+  "trustLevel": "high",
+  "allowPostUpgradeCommandTemplating": true,
+  "allowedPostUpgradeCommands": ["echo"],
+  
   "postUpgradeTasks": {
     "commands": [
       "[ -f any.file ] && echo 'hi'"
