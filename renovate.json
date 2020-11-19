@@ -13,5 +13,5 @@
       "[ -f any.file ] && echo 'hi'"
     ],
     "fileFilters": ["**/**"]
-  },
+  }
 }
