@@ -8,6 +8,7 @@
   },
   "rangeStrategy": "pin",
   "composerIgnorePlatformReqs": false,
+  "automerge": true,
   
   "trustLevel": "high",
   "allowPostUpgradeCommandTemplating": true,
