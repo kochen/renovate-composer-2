@@ -7,5 +7,11 @@
     "enabled": true
   },
   "rangeStrategy": "pin",
-  "composerIgnorePlatformReqs": false
+  "composerIgnorePlatformReqs": false,
+  "postUpgradeTasks": {
+    "commands": [
+      "[ -f any.file ] && echo 'hi'"
+    ],
+    "fileFilters": ["**/**"]
+  },
 }
